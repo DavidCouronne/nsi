@@ -1,4 +1,4 @@
 # NSI
 Cours de NSI pour le lycée
 
-https://mybinder.org/v2/gh/DavidCouronne/nsi/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidCouronne/nsi/master)
